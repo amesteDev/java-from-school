@@ -5,8 +5,6 @@
 *
 */
 
-package ma223yd_assign2.exc4;
-
 import java.util.Iterator;
 
 /**
