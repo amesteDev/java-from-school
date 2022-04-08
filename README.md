@@ -10,3 +10,8 @@
 > MyGraphs contains my implementation of a graph structure including algorithms for BFS, DFS, Transitive Closure and Connected Components.
 > (the folder graphs contains some tests supplied by the school aswell as the interfaces for the things I implemented
 
+### Queue
+
+> This folder contains an implementation of a queue interface and some simple Unit Testing of the implemantation.
+
+
