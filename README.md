@@ -14,4 +14,6 @@
 
 > This folder contains an implementation of a queue interface and some simple Unit Testing of the implemantation.
 
+### SmallThings
 
+> BST.java is a Binary Search Tree and Fib.java is a simple recursive implementation of the ffibonacci sequence
